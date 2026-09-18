@@ -7,13 +7,6 @@
 </picture>
 
 <br>
-<br>
-
-We develop statistical software and decision systems for marketing
-measurement, modelling and planning.
-
-<br>
-
-**[griffin-mmm.com](https://griffin-mmm.com)**
+**[griffin-analytics.com](https://griffin-analytics.com)**
 
 </div>
